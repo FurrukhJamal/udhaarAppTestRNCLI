@@ -89,7 +89,7 @@ const styles = StyleSheet.create({
     },
     listContainer : {
         width : "100%",
-        marginTop : 10,
+        marginTop : "15%",
     },
     listItemSeperator : {
         borderBottomWidth : 2,
